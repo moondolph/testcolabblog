@@ -51,7 +51,7 @@
   
       ,"page1": {
           "title": "About Me",
-          "content": "This website is powered by fastpages 1. . a blogging platform that natively supports Jupyter notebooks in addition to other formats. &#8617; . |",
+          "content": "여기는 나에 대한 내용을 꾸미는 페이지 입니다 . about me . section1 . section2 . section3 .",
           "url": "https://moondolph.github.io/testcolabblog/about/",
           "relUrl": "/about/",
           "date": ""
