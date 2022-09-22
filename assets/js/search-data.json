@@ -62,7 +62,9 @@
   
 
   
-      ,"page3": {
+
+  
+      ,"page4": {
           "title": "Sample",
           "content": "Hello World . hello | hello | hello | .",
           "url": "https://moondolph.github.io/testcolabblog/sample/",
@@ -92,7 +94,7 @@
   
 
   
-      ,"page11": {
+      ,"page12": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://moondolph.github.io/testcolabblog/robots.txt",
